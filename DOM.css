@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+.btn {
+  cursor: pointer;
+}
+.info {
+  padding: 5px;
+}
+.edit {
+  background-color: green;
+
+  max-width: 50px;
+  color: white;
+  margin: 0 2px;
+  padding: 2px;
+  font-size: 0.5rem;
+  cursor: pointer;
+}
+
+.delete {
+  background-color: red;
+
+  max-width: 50px;
+  color: white;
+  margin: 0 2px;
+  padding: 2px;
+  font-size: 0.5rem;
+  cursor: pointer;
+}
